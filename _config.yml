@@ -72,18 +72,7 @@ roles:
    end: 2012
    employer: Oxford Economics
    location: Full-time Oxford, UK
-   description: Responsible for the creation of reports and data processing systems using Microsoft Access/Excel and VBA. Creation, updating and maintenance of large excel data spreadsheets using numerous data sources. Development of the companies data help information database, time sheet and quote systems.   
- - title: Database Developer
-   start: 2009
-   end: 2009
-   employer: Aviva - Contract
-   location: Full-time Norwich, UK
-   description: Working for the Operational Support department within Aviva Insurance. I designed and produced an Access database and VBA/Excel based management reporting systems that analysed demand levels within Aviva’s various onshore and offshore call centre’s (11 in total).
-   - Designed and produced call recording database’s utilising Microsoft Access and VBA.
-   - Implemented custom validation to ensure accurate data capture.
-   - Production of dynamic management information reports that were automatically created in Excel via VBA from within a custom built Access based reporting module.
-   - Production of dynamically created management reporting Flow Charts showing the time and demand analysis statistics for Call demands.
-   - Automation of control chart creation for the analysis of call times via an advanced multi filtering form utilising dynamic SQL creation and custom array based export module. 
+   description: Responsible for the creation of reports and data processing systems using Microsoft Access/Excel and VBA. Creation, updating and maintenance of large excel data spreadsheets using numerous data sources. Development of the companies data help information database, time sheet and quote systems.
 
 #Education is required
 education:
