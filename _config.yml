@@ -47,31 +47,31 @@ roles:
    start: 2021
    end: 2021
    employer: Oxford Economics
-   location: Full-time (remote)
+   location: Full-time: remote
    description: Lead developer on a project to upgrade one of our large steel core business systems that utilises a combination of Neo4j and Mongo databases to import, manipulate and store historical economic data for use in the forecasting process. Updating of all documentation with a hand over of the new completed, tested and deployed system to a new software development team.
  - title: Software Developer
    start: 2018
    end: 2021
    employer: Oxford Economics
-   location: Part-time (remote)
+   location: Part-time: remote
    description: Continued development of the companies flagship and market leading Global Model Workstation (GMW) desktop software via an agile methodology. Handling of client & staff support issues in line with our companies SLA's. Development of additional GMW component software. Occasional work on the companies new online Model Workstation.
  - title: Software Developer
    start: 2014
    end: 2017
    employer: Oxford Economics
-   location: Full-time (remote from August 2015)
+   location: Full-time: remote from August 2015
    description: The development and maintenance of internal and client facing software solutions including the companies flagship and market leading Global Macro Workstation (GMW). This is a desktop system built using a C# backend and a Typescript/Knockout/CSS frontend.
  - title: Software developer (C#/Neo4j)
    start: 2012
    end: 2014
    employer: Oxford Economics
-   location: Full-time (Oxford, UK)
+   location: Full-time: Oxford, UK
    description: Development of a large scale data management system using MVC, C#, Neo4j graph database and MongoDb. This system helped to centralise the multiple data sources used within the Oxford Economics core data, reduced bottlenecks upon the Data Team, allowed staff to be more productive, and significantly improved the quality of the data.
  - title: Senior data analyst and software developer
    start: 2009
    end: 2012
    employer: Oxford Economics
-   location: Full-time (Oxford, UK)
+   location: Full-time: Oxford, UK
    description: Responsible for the creation of reports and data processing systems using Microsoft Access/Excel and VBA. Creation, updating and maintenance of large excel data spreadsheets using numerous data sources. Development of the companies data help information database, time sheet and quote systems.   
 
 #Education is required
