@@ -116,8 +116,7 @@ education:
 #   flairimageurl: N/A
 
 intro: |
-  I am a full stack Software Engineer with experience in producing both internal and customer facing systems. I have spent the past 12 years working for Oxford Economics Ltd where I had numerous roles.
-
+  I am a full stack Software Engineer with experience in producing both internal and customer facing systems. I have spent the past 12 years working for Oxford Economics Ltd where I held a number of roles and worked across multiple projects utilising the following technologies: Excel, Word, Access Db's, VBA, SQL, MongoDB, Neo4j, HTML, CSS, C#, Javascript, Typescript, MVC and MVVM.
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>C#</strong>: In my last role I used C# to build back-end services for a large historical data store. I have also used the C# language when building other applications for Oxford Economics Ltd which also included their flagship client-facing Global Economic Model software. <br/><br/>
